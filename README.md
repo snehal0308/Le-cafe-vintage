@@ -1,4 +1,4 @@
-# le cafe vinatage
+# Le café vintage
 
 A cafe website made by using Django and bootstrap
 
