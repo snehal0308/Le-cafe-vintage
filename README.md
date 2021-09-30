@@ -4,16 +4,8 @@ A cafe website made by using Django and bootstrap
 
 ![home](https://snehal-adbol.snehaladbol.repl.co/assets/img/project1.png)
 
-> Le café vintage by Snehal Adbol
-
 # Google Keep Clone
 Try it online [here](https://lecafe.snehaladbol.repl.co/)!
-### Demo
-
-| Theme / View | Light Theme | Dark Theme |
-| --- | ---- | ---- |
-| Grid | ![Le café vintage demo](https://drive.google.com/uc?export=view&id=1hZ9CuZWZKlKq-4vlXJjg3uQddLubgsQV) | ![Google Keeps Clone demo](https://drive.google.com/uc?export=view&id=1hZ9CuZWZKlKq-4vlXJjg3uQddLubgsQV) |
-
 
 ###### For the best experience, please use a device with a width of at least 350px
 
