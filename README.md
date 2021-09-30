@@ -25,7 +25,7 @@ Try it online [here](https://lecafe.snehaladbol.repl.co/)!
 - To deploy this project, remember to run `python manage.py collectstatic`
 
 ## License
-Distributed under the [MIT](https://github.com/kimlimjustin/google-keep-clone/blob/master/LICENSE) License. See [`LICENSE`](https://github.com/kimlimjustin/google-keep-clone/blob/master/LICENSE) for more information.
+Distributed under the [MIT]https://github.com/Snehal0203/Le-cafe-vintage/blob/main/LICENSE) License. See [`LICENSE`](https://github.com/Snehal0203/Le-cafe-vintage/blob/main/LICENSE) for more information.
 
 ## Contact
 - Snehal Adbol - [snehaladbol@gmail.com](mailto:snehaladbol@gmail.com)
