@@ -2,7 +2,7 @@
 
 A cafe website made by using Django and bootstrap
 
-![home](https://snehal-adbol.snehaladbol.repl.co/assets/img/project1.png)
+![home](https://snehal0203.github.io/portfolio/assets/img/project1.png)
 
 # Le café vintage
 Try it online [here](https://lecafe.snehaladbol.repl.co/)!
