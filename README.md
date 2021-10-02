@@ -20,7 +20,7 @@ Try it online [here](https://lecafe.snehaladbol.repl.co/)!
     - To fork this repository, click fork button of this repository then type `git clone https://github.com/<your username>/Le-cafe-vintage.git`
 - Migrate the database by typing `python manage.py migrate` on the terminal.
 -  To create a superuser and save data to mysql, remember to run `python manage.py createsuperuser`
-    - Run this project       
+- Run this project       
     - Run the project locally by typing `python manage.py runserver` on the terminal and it will be accessible in your localhost.
     - To run it on your local network, type `python manage.py runserver 0.0.0.0:8000` and it will be accessible in your local network.
 
